@@ -7,6 +7,7 @@
 Link zu den Filmen
 
 
+
 # Meine drei lieblingsmusiker
 
 
@@ -17,6 +18,9 @@ Link zu den Filmen
 
 Link zu meinen lieblings Interpreten
 
+[Hans Zimmer](Hans-Zimmer.md)
+[Koda-Kumi](Koda-Kumi.md)
+[Rammstein](Rammstein.md)
 
 
 
