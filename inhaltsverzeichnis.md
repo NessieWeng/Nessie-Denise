@@ -2,7 +2,7 @@
 
 1. Die letzten Glühwürmchen
 2. Die kleine Prinzessin Sara
-3. Nicht noch ein Teenie-Film
+3. Nicht noch ein Teenie-Film!
 
 Link zu den Filmen
 
@@ -18,8 +18,12 @@ Link zu den Filmen
 
 Link zu meinen lieblings Interpreten
 
-[Hans Zimmer](Hans-Zimmer.md)
+[Hans Zimmer](Hans-Zimmer.md) 
+
+
 [Koda-Kumi](Koda-Kumi.md)
+
+
 [Rammstein](Rammstein.md)
 
 
