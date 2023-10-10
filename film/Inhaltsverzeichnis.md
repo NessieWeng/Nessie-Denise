@@ -4,4 +4,4 @@
 2. Die kleine Prinzessin Sara
 3. Nicht noch ein Teenie Film!
 
-bla bla bla 
+Weiter infos folgen 
