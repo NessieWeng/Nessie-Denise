@@ -1,1 +1,0 @@
-Diese übung ist für git und neue branch zu erstellen und zu bearbeiten 
