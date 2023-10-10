@@ -20,7 +20,7 @@ Joel Gallen
  Irgendwann kann er nicht mehr anders, als ihr von der Wette zu erzählen, woraufhin sie ihn enttäuscht verlässt. Wird er sie zurückgewinnen?***
 
 ## Filmzitat
-Ich gratuliere dir. Das war soeben dein erster Zeitlupe-Auftritt.
+>Ich gratuliere dir. Das war soeben dein erster Zeitlupe-Auftritt.
 
 
 
